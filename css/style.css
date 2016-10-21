@@ -184,7 +184,7 @@ header h1 {
 }
 .cd-handle.draggable {
   /* change background color when element is active */
-  background-color: #445b7c;
+  background-color: #7e7e7e;
 }
 .is-visible .cd-handle {
   opacity: 1;
